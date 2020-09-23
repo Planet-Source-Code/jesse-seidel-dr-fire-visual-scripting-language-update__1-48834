@@ -1,0 +1,12 @@
+Start Cmd(1)_Clicked()
+Text(2).Caption = "{System.AppPath}"
+Text(2).Caption = "{Mid('{Text(2)}',1,3)}"
+If Text(2).Caption = "A:\" Then
+Text(1).Caption =  "Stored on floppy disk."
+ElseIf Text(2).Caption = "C:\" Then
+Text(1).Caption =  "Stored on hard disk 'C:\'!"
+Else
+Text(1).Caption = "Stored on unrecognised drive!"
+End If
+End Cmd(1)_Clicked
+

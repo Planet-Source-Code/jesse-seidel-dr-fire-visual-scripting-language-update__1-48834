@@ -1,0 +1,10 @@
+Start Cmd(1)_Clicked()
+Text(2).Caption = "{Asc('{Text(1)}')}"
+End Cmd(1)_Clicked
+
+
+Start Cmd(2)_Clicked()
+Text(4).Caption = "{Chr({Text(3)})}"
+End Cmd(2)_Clicked
+
+

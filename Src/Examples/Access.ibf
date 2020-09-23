@@ -1,0 +1,8 @@
+Form()  Width:2760 Height:1515 Caption:Access
+CreateCtrl Cmd(1) Left:0 Top:800 Width:2600 Height:200 Visible:True Caption:Verify Access!
+CreateCtrl Text(1) Left:600 Top:0 Width:2000 Height:285 Visible:True Caption:
+CreateCtrl Text(2) Left:600 Top:400 Width:2000 Height:285 Visible:True Caption:
+CreateCtrl Text(3) Left:0 Top:0 Width:1000 Height:285 Visible:False Caption:New Caption
+CreateCtrl Label(1) Left:0 Top:0 Width:1000 Height:200 Visible:True Caption:User:
+CreateCtrl Label(2) Left:0 Top:400 Width:1000 Height:200 Visible:True Caption:Pass:
+
