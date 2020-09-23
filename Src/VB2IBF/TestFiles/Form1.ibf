@@ -1,0 +1,8 @@
+Form()  Width:2925 Height:3065 Caption:Form1
+CreateCtrl Text(1) Left:480 Top:360 Width:1455 Height:285 Visible:True Caption:
+CreateCtrl Text(2) Left:720 Top:0 Width:2055 Height:285 Visible:True Caption:
+CreateCtrl Cmd(1) Left:120 Top:720 Width:2535 Height:255 Visible:True Caption:Add!
+CreateCtrl Cmd(2) Left:2040 Top:360 Width:735 Height:375 Visible:True Caption:Check?
+CreateCtrl Label(1) Left:0 Top:360 Width:735 Height:255 Visible:True Caption:Age:
+CreateCtrl Label(2) Left:0 Top:0 Width:615 Height:255 Visible:True Caption:Name:
+

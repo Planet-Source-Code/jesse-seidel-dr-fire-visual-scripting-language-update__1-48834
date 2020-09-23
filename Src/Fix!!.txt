@@ -1,0 +1,14 @@
+XX If 1000 > 2000 Then - Error with ">" sign.
+-----
+>> Fix IF cases for everything... they only work with textboxes. EG: If Cmd(1).Caption = "Hi" then
+>> will answer both cases, if and else.
+-----
+>> Add elseif function, just add to else proc at top of code a proc to jump to if releacing cur line of code with the "if..." from "ElseIf".
+-----
+XX Trim all VBCRLF's from env code.
+-----
+>> Clear and rebuild code upon running?
+-----
+>> Does code clear when rebuilt?
+-----
+>> Cancelling compilation, loading etc is NOT an error case!

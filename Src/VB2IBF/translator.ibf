@@ -1,0 +1,6 @@
+Form()  Width:4710 Height:3590 Caption:FormTranslator
+CreateCtrl Text(1) Left:2400 Top:240 Width:2175 Height:2775 Visible:True Caption:
+CreateCtrl Text(2) Left:0 Top:240 Width:2175 Height:2775 Visible:True Caption:
+CreateCtrl Label(1) Left:2400 Top:0 Width:2175 Height:255 Visible:True Caption:InterBasicEnvironmentCode:
+CreateCtrl Label(2) Left:0 Top:0 Width:1815 Height:255 Visible:True Caption:VisualBasicFormCode:
+

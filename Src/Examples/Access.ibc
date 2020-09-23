@@ -1,0 +1,13 @@
+Start Cmd(1)_Clicked()
+Text(3).Visible = "False"
+Text(3).Caption = "{Text(1)}{Text(2)}"
+If Text(3).Caption = "PeterPassword" Then
+MsgBox "Access Granted!"
+ElseIf Text(3).Caption = "JohnPassword" Then
+MsgBox "Hi John!"
+Else
+MsgBox "Access Denied!"
+End If
+End Cmd(1)_Clicked
+
+

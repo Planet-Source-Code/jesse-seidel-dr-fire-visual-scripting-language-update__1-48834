@@ -1,0 +1,5 @@
+Form()  Width:2235 Height:1215 Caption:Path App
+CreateCtrl Cmd(1) Left:0 Top:375 Width:2100 Height:300 Visible:True Caption:Find App Drive!
+CreateCtrl Text(1) Left:0 Top:0 Width:2100 Height:285 Visible:True Caption:
+CreateCtrl Text(2) Left:0 Top:375 Width:2100 Height:300 Visible:False Caption:Find App Drive!
+

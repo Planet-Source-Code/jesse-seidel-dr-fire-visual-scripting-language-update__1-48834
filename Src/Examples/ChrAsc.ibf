@@ -1,0 +1,10 @@
+Form()  Width:1845 Height:1260 Caption:
+CreateCtrl Cmd(1) Left:1000 Top:0 Width:500 Height:300 Visible:True Caption:Asc
+CreateCtrl Cmd(2) Left:1000 Top:400 Width:500 Height:300 Visible:True Caption:Chr
+CreateCtrl Text(1) Left:0 Top:0 Width:300 Height:300 Visible:True Caption:d
+CreateCtrl Text(2) Left:600 Top:0 Width:300 Height:300 Visible:True Caption:
+CreateCtrl Text(3) Left:0 Top:400 Width:300 Height:300 Visible:True Caption:97
+CreateCtrl Text(4) Left:600 Top:400 Width:300 Height:300 Visible:True Caption:
+CreateCtrl Label(1) Left:400 Top:0 Width:300 Height:300 Visible:True Caption:=
+CreateCtrl Label(2) Left:400 Top:400 Width:300 Height:300 Visible:True Caption:=
+
